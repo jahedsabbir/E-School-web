@@ -10,7 +10,7 @@ section{
     height: auto;
    
 }
-.header-top{
+.header-top-bg{
     background-color: #F0FFF0 ;
   
 
@@ -38,7 +38,7 @@ section{
     height: 150px;
 }
 .detail-sect{
-    background-color:#F0FFF0 ;
+    background-color:#F0FFF0;
     border-radius: 10px;
     margin-left: 80px;
 }
@@ -60,8 +60,16 @@ section{
 .card{
     border:none;
 }
+.message-box-bg{
+    background-color:#F0FFF0;
+}
+#text-box{
+    width: 500px;
+    height: 60px;
+    margin-right: 10px;
+}
 footer{
-    background-color:#272530;
+    background-color:#282531;
     
 }
 
@@ -71,4 +79,7 @@ a{
 }
 .footer,h3{
     color: white;
+}
+.footer-end {
+    color: #CDCDCD;
 }
